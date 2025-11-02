@@ -1,5 +1,5 @@
 # Rizzbot
---feel free to modify intents.json as creative as you would
+--feel free to modify `intents.json` as creative as you would
 
 ### 🧠 **Pipeline Utama**
 1. **Preprocessing Data**
